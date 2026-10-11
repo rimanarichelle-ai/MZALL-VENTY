@@ -1,0 +1,6 @@
+{
+  "name": "VENTY THE COFFEE — Specialty Coffee, Juice & Sweets in Miliana",
+  "description": "Specialty coffee shop, fresh juices, and artisanal sweets in Miliana / Khemis Miliana, Algeria. Clean React frontend with scalable Node.js backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
